@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.jpmorgan.application.controller.MessageProcessingControllerTest
--------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.89 sec
