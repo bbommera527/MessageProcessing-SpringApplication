@@ -63,10 +63,3 @@ MessageProcessingControllerTest
 - Added dummy method for incoming message validation 
 - No Security has been implemented
 
-#Executable jar
-
-1. Open a command window in the projects base directory.
-2. Run the command: mvn package
-3. In the folder: target\ the executable jar will be created with the name: 'MessageProcessingService-1.0-SNAPSHOT'
-4. from the directory with the executable jar run the command: java -jar MessageProcessingService-1.0-SNAPSHOT.jar
-
