@@ -12,7 +12,7 @@ Processing requirements
  After every 10th message received your application should log a report detailing the number
 of sales of each product and their total value.
 
- After 20 messages your application should log that it is pausing, stop accepting new
+ After 50 messages your application should log that it is pausing, stop accepting new
 messages and log a report of the adjustments that have been made to each sale type while
 the application was running.
 
